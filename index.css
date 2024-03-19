@@ -1,0 +1,362 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(206, 189, 206);
+}
+
+h1 {
+
+    color: azure;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: purple;
+    width: 200px;
+    border-radius: 0px;
+    margin-top: 20px;
+    margin-left: 660px;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+
+
+}
+
+h1:hover {
+    background-color: #fff;
+    color: purple;
+    border: 3px solid purple;
+}
+
+h1::after {}
+
+.one {
+
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    word-wrap: normal;
+    margin-top: 50px;
+    margin-left: 440px;
+
+}
+
+.line {
+    color: purple;
+    font-weight: 500;
+    margin-left: 440px;
+    font-size: larger;
+
+}
+
+h3 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: purple;
+    width: 200px;
+    border-radius: 0px;
+    margin-top: 20px;
+    margin-left: 660px;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+    padding: 10px;
+
+}
+
+h3:hover {
+    background-color: #fff;
+    color: purple;
+    border: 3px solid purple;
+
+}
+
+
+.img {
+
+    border: #fff;
+    border-radius: 50%;
+}
+
+.img:hover {
+    border: 2px solid purple;
+}
+
+.leader {
+
+    border: #fff;
+}
+
+.leader:hover {
+    border: 1px solid black;
+}
+
+/* Founder */
+.founder {
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+.f1 {
+
+    cursor: pointer;
+}
+
+.f1 img {
+    border-radius: 50%;
+}
+
+.f2 {
+    cursor: pointer;
+
+}
+
+.f2 img {
+    border-radius: 50%;
+}
+
+/* vp */
+.vp {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.v1 {
+
+    cursor: pointer;
+}
+
+.v1 img {
+
+    border-radius: 50%;
+
+}
+
+.v2 {
+
+    cursor: pointer;
+}
+
+.v2 img {
+
+    border-radius: 50%;
+
+
+}
+
+.v3 {
+
+    cursor: pointer;
+}
+
+.v3 img {
+
+    border-radius: 50%;
+
+}
+
+.content {
+    text-decoration: none;
+    color: black;
+}
+
+.content:hover {
+    text-decoration: underline;
+    color: purple;
+}
+
+
+
+
+/* Developer */
+.developers {
+    border: #fff;
+}
+
+.developers:hover {
+    border: 1px solid black;
+}
+
+.Developer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.d1 {
+
+    cursor: pointer;
+}
+
+.d1 img {
+    border-radius: 50%;
+
+}
+
+d2 {
+
+    cursor: pointer;
+
+
+
+}
+
+.d2 img {
+
+    border-radius: 50%;
+
+
+}
+
+d3 {
+
+    cursor: pointer;
+
+
+}
+
+.d3 img {
+
+    border-radius: 50%;
+
+
+}
+
+d4 {
+
+
+    cursor: pointer;
+
+}
+
+.d4 img {
+    border-radius: 50%;
+
+
+}
+
+.devloper2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+d5 {
+
+    cursor: pointer;
+
+}
+
+.d5 img {
+    border-radius: 50%;
+
+}
+
+d6 {
+
+    cursor: pointer;
+}
+
+.d6 img {
+
+    border-color: aquamarine;
+    border-radius: 50%;
+
+}
+
+d7 {
+
+    cursor: pointer;
+}
+
+.d7 img {
+    border-radius: 150px;
+    border-radius: 50%;
+}
+
+.Employee {
+    border: #fff;
+
+}
+
+.Employee:hover {
+    border: 1px solid black;
+}
+
+.Sales {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.s1 {
+    cursor: pointer;
+}
+
+.s1 img {
+    border-radius: 150px;
+    border-radius: 50%;
+}
+
+.s2 {
+    cursor: pointer;
+}
+
+.s2 img {
+    border-radius: 150px;
+    border-radius: 50%;
+}
+
+.s3 {
+    cursor: pointer;
+}
+
+.s3 img {
+    border-radius: 150px;
+    border-radius: 50%;
+}
+
+.s4 {
+    cursor: pointer;
+}
+
+.s4 img {
+    border-radius: 150px;
+    border-radius: 50%;
+}
+
+.sales2 {
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.s5 {
+
+    cursor: pointer;
+}
+
+.s5 img {
+    border-radius: 150px;
+    border-radius: 50%;
+}
+
+.s6 {
+
+    cursor: pointer;
+}
+
+.s6 img {
+    border-radius: 150px;
+    border-radius: 50%;
+}
+
+.s7 {
+
+    cursor: pointer;
+
+}
+
+.s7 img {
+    border-radius: 150px;
+    border-radius: 50%;
+
+}
